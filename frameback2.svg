@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:sketchupaddin="3.0.2"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2268 2988"
+	 style="enable-background:new 0 0 2268 2988;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:144;stroke-miterlimit:288;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10.0014;}
+</style>
+<path shaper:cutDepth="0.250" shaper:pathType="exterior" d="M0,0v2988h2268V0H0z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M1994.76,479.088
+	v730.368h-554.4L1994.76,479.088z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M1350,1090.368V360
+	h554.328L1350,1090.368z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M827.64,1209.456
+	l-554.4-730.368v730.368H827.64z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M1350,2628v-730.368
+	L1904.328,2628H1350z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M363.672,2628
+	L918,1897.632V2628H363.672z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M273.24,2508.912
+	v-722.304h548.28L273.24,2508.912z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M918,1060.56
+	L386.208,360H918V1060.56z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M1994.76,2479.176
+	l-525.672-692.568h525.672V2479.176z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M918,1328.544v330.912
+	H273.24v-330.912H918z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.250" shaper:pathType="interior" class="st0" d="M1994.76,1659.456
+	H1350v-330.912h644.76V1659.456z"/>
+<g>
+	<path class="st1" d="M2062.861,2795.208c-7.51,3.605-11.586-2.961-11.216-23.367 M2046.21,2857.209
+		c10.779-29.098,18.18-59.244,20.096-90.762"/>
+	<path class="st1" d="M2140.868,2777.969c2.794,38.889-76.515,102.615-122.985,98.753c-56.127-4.707-88.858-22.993-99.563-40.523
+		c-14.793-24.685-0.004-97.958,27.842-123.902c28.121-26.569,119.647-32.829,119.647-32.829S2133.146,2666.531,2140.868,2777.969z"
+		/>
+	<path class="st1" d="M1999.218,2746.898c-0.941,1.889-15.743,36.512-7.418,69.686"/>
+	<path class="st1" d="M1973.635,2782.589c2.698-18.339,7.191-50.478,47.428-70.613c6.676-3.204,29.395-10.208,40.044-2.997
+		c10.285,6.667,11.76,23.003-4.514,43.649c-21.094,26.861-52.228,39.649-52.228,39.649s0.305,34.253,30.417,45.915"/>
+	
+		<ellipse transform="matrix(0.1901 -0.9818 0.9818 0.1901 -1012.1599 4306.5796)" class="st2" cx="2104.034" cy="2766.736" rx="11.418" ry="7.026"/>
+	
+		<ellipse transform="matrix(0.1901 -0.9818 0.9818 0.1901 -1097.3018 4266.9521)" class="st2" cx="2037.446" cy="2798.524" rx="11.418" ry="7.026"/>
+	<line class="st1" x1="2085.795" y1="2708.218" x2="2072.765" y2="2789.53"/>
+	<path class="st1" d="M2092.03,2752.868l-15.943,23.26c0,0,10.431,7.828,11.957,8.225"/>
+	<path class="st1" d="M1977.44,2822.704c0,0-6.52-51.574-16-21.645c-2.428,7.667-1.09,26.465-1.09,26.465
+		s-1.063-30.283-8.718-28.855s-6.359,35.37-6.359,35.37s-4.641-38.53-12.128-39.427"/>
+</g>
+</svg>

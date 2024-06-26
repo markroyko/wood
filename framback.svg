@@ -1,0 +1,19 @@
+<!-- ARC is A xrad yrad xrotation-degrees largearc sweep end_x end_y -->
+
+<svg height='41.500in' width='31.500in' version='1.1' viewBox='0.000 0.000 31.500 41.500' x='0.000in' y='0.000in' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:shaper='http://www.shapertools.com/namespaces/shaper' shaper:sketchupaddin='3.0.2' >
+<title > cut profile
+</title>
+<desc >Shaper cut profile from Sketchup model 
+</desc>
+<path d='M 0.000 41.500 L 0.000 0.000  L 31.500 0.000  L 31.500 41.500  L 0.000 41.500 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='exterior' shaper:cutDepth='0.250' fill='rgb(0,0,0)' />
+<path d='M 27.705 34.846 L 27.705 24.702  L 20.005 24.702  L 27.705 34.846 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 18.750 26.356 L 18.750 36.500  L 26.449 36.500  L 18.750 26.356 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 11.495 24.702 L 3.795 34.846  L 3.795 24.702  L 11.495 24.702 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 18.750 5.000 L 18.750 15.144  L 26.449 5.000  L 18.750 5.000 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 5.051 5.000 L 12.750 15.144  L 12.750 5.000  L 5.051 5.000 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 3.795 6.654 L 3.795 16.686  L 11.410 16.686  L 3.795 6.654 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 12.750 26.770 L 5.364 36.500  L 12.750 36.500  L 12.750 26.770 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 27.705 7.067 L 20.404 16.686  L 27.705 16.686  L 27.705 7.067 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 12.750 23.048 L 12.750 18.452  L 3.795 18.452  L 3.795 23.048  L 12.750 23.048 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+<path d='M 27.705 18.452 L 18.750 18.452  L 18.750 23.048  L 27.705 23.048  L 27.705 18.452 Z ' transform='matrix(1,0,0,-1,0.0,41.500)' shaper:pathType='interior' shaper:cutDepth='0.250' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2px' vector-effect='non-scaling-stroke' />
+</svg>
